@@ -4,11 +4,9 @@
 
 <p style="font-size: 12px">I'm Sheng Ding, front-end developer from China. I love to explore and learn about new things...</p>
 
-
 ![](https://github-readme-stats-git-dev.bestdingsheng.vercel.app/api?username=BestDingSheng&show_icons=true&theme=deson&title_color=bd93f9&icon_color=a4ffff&text_color=c264af&bg_color=282a36)
 
 [![willianrod's wakatime stats](https://github-readme-stats-git-dev.bestdingsheng.vercel.app/api/wakatime?username=BestDingSheng&theme=deson&title_color=bd93f9&icon_color=a4ffff&text_color=c264af&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### Languages and Tools
 
@@ -36,26 +34,35 @@
 
   <tbody>
     <tr>
-      <td><a href="https://github.com/BestDingSheng/blog2020">blog</a></td>
+      <td><a target="_blank" href="https://github.com/BestDingSheng/blog2020">blog</a></td>
       <td>基于 hexo 开发的个人静态博客</td>
-      <td>
-        <a href="http://jsding96.cn">click me</a>
-      </td>
+      <td><a target="_blank" href="http://jsding96.cn">click me</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BestDingSheng/toolbar">toolbar</a></td>
+      <td><a target="_blank" href="https://github.com/BestDingSheng/toolbar">toolbar</a></td>
       <td>基于 hexo 开发的静态 前端导航栏</td>
-       <td>
-        <a href="http://box.jsding96.cn">click me</a>
-      </td>
+      <td><a target="_blank" href="http://box.jsding96.cn">click me</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BestDingSheng/my-notes">notes</a></td>
+      <td><a target="_blank" href="https://github.com/BestDingSheng/my-notes">notes</a></td>
       <td>基于 vuepress 开发的静态网站  </td>
-       <td>
-        <a href="https://notes.jsding96.cn/">click me</a>
-      </td>
+       <td> <a target="_blank" href="https://notes.jsding96.cn/">click me</a> </td>
     </tr>
+    <tr>
+      <td><a target="_blank" href="https://github.com/BestDingSheng/ding-immer">ding-immer</a></td>
+      <td> 基于 Proxy 实现了 immer 的核心功能, 可共享数据结构,写时拷贝  </td>
+      <td></td>
+    </tr>
+		<tr>
+			<td><a target="_blank" href="https://github.com/BestDingSheng/puppeteer-learn">puppeteer-learn</a></td>
+			<td>  学习 puppeteer 写的一些 demo </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><a target="_blank" href="https://github.com/BestDingSheng/learn-webpack">webpack-learn</a></td>
+			<td>  学习 webpack 写的一些 demo </td>
+			<td></td>
+		</tr>
   </tbody>
 </table>
 
