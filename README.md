@@ -66,4 +66,52 @@
   </tbody>
 </table>
 
+#### Contributing projects
 
+<table style="font-size: 12px">
+  <thead align="center">
+    <tr>
+      <th>📦 Projects</th>
+      <th>📃 Description</th>
+      <th>★ star</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></td>
+      <td>⚡为您的 github readme文件动态生成统计信息</td>
+      <td>
+        <img src='https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=plastic&labelColor=373f51&color=e07a5f'>
+      </td>
+    </tr>
+    <tr>
+      <td><a target="_blank" href="https://github.com/Kaiyiwing/qwerty-learner"> qwerty-learner</a></td>
+      <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件</td>
+      <td>
+        <img src='https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner?style=plastic&labelColor=373f51&color=e07a5f'>
+      </td>
+    </tr>
+     <tr>
+      <td><a target="_blank" href="https://github.com/ZhongAnTech/zarm">zarm</a></td>
+      <td>基于 React、React-Native 的移动端UI组件库</td>
+      <td>
+        <img src='https://img.shields.io/github/stars/ZhongAnTech/zarm?style=plastic&labelColor=373f51&color=e07a5f'>
+      </td>
+    </tr>
+    <tr>
+      <td><a target="_blank" href="https://github.com/JeromeLin/zarm-web">zarm-web</a></td>
+      <td>基于 React 的桌面端 UI 组件库</td>
+      <td>
+        <img src='https://img.shields.io/github/stars/JeromeLin/zarm-web?style=plastic&labelColor=373f51&color=e07a5f'>
+      </td>
+    </tr>
+    <tr>
+      <td><a target="_blank" href="https://github.com/xiaojia21190/jd_seckill_cli">jd_seckill_cli</a></td>
+      <td> 基于 puppteer 自动化预约，抢购茅台 </td>
+      <td>
+        <img src='https://img.shields.io/github/stars/xiaojia21190/jd_seckill_cli?style=plastic&labelColor=373f51&color=e07a5f'>
+      </td>
+    </tr>
+  </tbody>
+</table>
