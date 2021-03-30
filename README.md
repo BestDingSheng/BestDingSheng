@@ -21,7 +21,7 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 
-#### Things I code with
+<!-- #### Things I code with
 
 <table style="font-size: 12px">
   <thead align="center">
@@ -64,7 +64,7 @@
 			<td></td>
 		</tr>
   </tbody>
-</table>
+</table> -->
 
 #### Contributing projects
 
